@@ -1,0 +1,5 @@
+C:\Users\PRAKTIKAN\Downloads\JURNAL_MOD6_KPL_1302213003\obj\Debug\net6.0\JURNAL_MOD6_KPL_1302213003.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\JURNAL_MOD6_KPL_1302213003\obj\Debug\net6.0\JURNAL_MOD6_KPL_1302213003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Downloads\JURNAL_MOD6_KPL_1302213003\obj\Debug\net6.0\JURNAL_MOD6_KPL_1302213003.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Downloads\JURNAL_MOD6_KPL_1302213003\obj\Debug\net6.0\JURNAL_MOD6_KPL_1302213003.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Downloads\JURNAL_MOD6_KPL_1302213003\obj\Debug\net6.0\JURNAL_MOD6_KPL_1302213003.csproj.CoreCompileInputs.cache
